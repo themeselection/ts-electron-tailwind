@@ -1,4 +1,4 @@
-# electron & Tailwind CSS Integration
+# Electron & Tailwind CSS Integration
 
 This project demonstrates the integration of **Tailwind CSS** (version 4.1.11) with **electron** (version 37.2.5). 
 
@@ -22,10 +22,10 @@ Follow these steps to get the project up and running:
    npm run watch:css
    ```
 
-4. **Run the electron Development Server**  
+4. **Run the Electron Development Server**  
    Launch the electron development server with:
    ```bash
    npm start
    ```
 
-Once these steps are completed, you can explore the project with Tailwind CSS seamlessly integrated into your electron application!
+Once these steps are completed, you can explore the project with Tailwind CSS seamlessly integrated into your Electron application!
